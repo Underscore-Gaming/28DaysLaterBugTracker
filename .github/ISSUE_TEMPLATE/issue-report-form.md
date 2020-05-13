@@ -18,6 +18,7 @@ Time of occurence (including timezone!):
 Specify what type of bug this is (Item/Environmental/Mechanic):
 Where did this happen?:
 What were you doing when it happened?:
+Explain the issue in as much detail as you can:
 Anything else we should know?:
 
 # Console logs
